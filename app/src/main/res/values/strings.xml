@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Muly</string>
+
+    <string name="confirmation_close_recording">
+        You will lose your recorded_clips (if any). Are you sure?
+    </string>
+    <string name="confirmation_delete_clip">
+        Do you really want to delete this clip? This cannot be undone.
+    </string>
+    <string name="confirmation_delete_comment">
+        Do you really want to delete this comment? This cannot be undone.
+    </string>
+    <string name="confirmation_use_audio">
+        Do you want to open recorder and create clip using this audio?
+    </string>
+
+    <string name="cancel_button">Cancel</string>
+    <string name="close_button">Close</string>
+    <string name="done_button">Done</string>
+    <string name="flash_button">Flash</string>
+    <string name="filter_button">Filter</string>
+    <string name="flip_button">Flip</string>
+    <string name="play_button">Play</string>
+    <string name="record_button">Record</string>
+    <string name="timer_button">Timer</string>
+    <string name="speed_button">Speed</string>
+    <string name="upload_button">Upload</string>
+    <string name="yes_button">Yes</string>
+
+    <string name="login_description">
+        Please login by clicking on any of the below services to continue using the app.
+    </string>
+    <string name="login_otp_description">
+        Please enter your mobile number below &amp; click on Generate button to receive an OTP.
+    </string>
+    <string name="login_otp_sent">
+        OTP has been sent to your mobile number. Please wait for a while until it arrives.
+    </string>
+    <string name="login_success">You have successfully logged in.</string>
+
+    <string name="mmss">00:00</string>
+
+    <string name="recorder_error_maxed_out">You have already recorded for maximum duration.</string>
+    <string name="recorder_error_no_clips">Please record your clip first to continue.</string>
+    <string name="recorder_error_in_progress">To do this, please stop recording first.</string>
+
+    <string name="report_submitted">Your report against inappropriate content has been successfully submitted.</string>
+
+    <string name="error_internet">Please check your internet connection.</string>
+
+    <string name="content_language_spinner">Content language</string>
+    <string name="privacy_switch">Make this clip private?</string>
+    <string name="comments_switch">Enable comments on this clip?</string>
+
+    <string name="comment_hint">Type something here…</string>
+    <string name="description_hint">Enter a description about this clip.</string>
+    <string name="search_hint">Search name or @username…</string>
+    <string name="sound_hint">Click to choose a song.</string>
+    <string name="timer_hint">To cancel timer before it starts, click here.</string>
+
+    <string name="comments_label">Comments</string>
+    <string name="bio_label">Bio</string>
+    <string name="chat_label">Chat</string>
+    <string name="facebook_label">Facebook</string>
+    <string name="google_label">Google</string>
+    <string name="generate_label">Generate</string>
+    <string name="discover_label">Discover</string>
+    <string name="edit_label">Edit</string>
+    <string name="email_label">Email</string>
+    <string name="filters_label">Filters</string>
+    <string name="name_label">Name</string>
+    <string name="news_label">News</string>
+    <string name="conversations_label">Conversations</string>
+    <string name="likes_label">Likes</string>
+    <string name="logout_label">Logout</string>
+    <string name="message_label">Message</string>
+    <string name="messages_label">Messages</string>
+    <string name="songs_label">Songs</string>
+    <string name="source_label">Source</string>
+    <string name="notifications_label">Notifications</string>
+    <string name="phone_label">Phone</string>
+    <string name="login_label">Login</string>
+    <string name="otp_label">SMS / OTP</string>
+    <string name="published_label">Published</string>
+    <string name="profile_label">Profile</string>
+    <string name="followers_label">Followers</string>
+    <string name="follow_label">Follow</string>
+    <string name="following_label">Following</string>
+    <string name="reply_label">Reply</string>
+    <string name="reason_label">Reason</string>
+    <string name="report_label">Report</string>
+    <string name="timer_label">Timer</string>
+    <string name="trimmer_label">Trim or cut</string>
+    <string name="otp_label_field">OTP</string>
+    <string name="username_label">Username</string>
+    <string name="upload_label">Upload</string>
+    <string name="unfollow_label">Unfollow</string>
+    <string name="verify_label">Verify</string>
+    <string name="views_label">Views</string>
+
+    <string name="audio_from_clip">Custom audio from clip.</string>
+    <string name="original_audio">User\'s original audio.</string>
+
+    <string name="notification_commented_on_your_clip">\@%s commented on your clip.</string>
+    <string name="notification_liked_your_clip">\@%s liked on your clip.</string>
+    <string name="notification_mentioned_you_in_comment">\@%s commented on your clip.</string>
+    <string name="notification_posted_new_clip">\@%s posted a new video clip.</string>
+    <string name="notification_started_following_you">\@%s has started following you.</string>
+    <string name="notification_tagged_you_in_clip">\@%s tagged you in a clip.</string>
+    <string name="notification_else">This notification content is not supported, yet.</string>
+
+    <string name="login_required_message">You need to be logged in to perform this action.</string>
+    <string name="uploading_message">Your clip will be uploaded shortly.</string>
+
+    <string name="progress_title">Please wait…</string>
+
+    <string name="notification_channel_id">default</string>
+    <string name="notification_channel_name">Default</string>
+
+    <string name="notification_preview_title">Preparing for upload…</string>
+    <string name="notification_preview_description">This will take just a few moments.</string>
+
+    <string name="notification_upload_title">Uploading video…</string>
+    <string name="notification_upload_description">Just a few moments before it goes on air.</string>
+
+    <string name="empty_articles">No news articles found to display.</string>
+    <string name="empty_comments">No comments found to display.</string>
+    <string name="empty_conversations">No conversations found to display.</string>
+    <string name="empty_messages">No message found to display.</string>
+    <string name="empty_followers">No followers found to display.</string>
+    <string name="empty_followings">No followings found to display.</string>
+    <string name="empty_notifications">No notifications found to display.</string>
+    <string name="empty_clips">No clips found to display.</string>
+    <string name="empty_songs">No songs found to display.</string>
+
+    <string name="share_clip_title">Share clip using…</string>
+    <string name="share_clip_text" formatted="false">Hey there! Check our this cool clip and for more, download this app https://play.google.com/store/apps/details?id=%s from Play Store.</string>
+
+    <string name="slide_1_title">Watch</string>
+    <string name="slide_1_description">Enjoy, like and comment on interesting clip at home.</string>
+    <string name="slide_2_title">Create</string>
+    <string name="slide_2_description">Upload original, fun clips on our platform and become a star.</string>
+
+    <string name="deleted">deleted</string>
+    <string name="message_trim_too_short" formatted="false">Please select at least %d seconds to cut.</string>
+    <string name="message_trim_too_long" formatted="false">Please select no more that %d seconds to cut.</string>
+
+</resources>
